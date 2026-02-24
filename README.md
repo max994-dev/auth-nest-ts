@@ -124,18 +124,6 @@ To see the code coverage
 
 **DevOps:** Docker Compose
 
-## Author
-
-👤 **Jaime Leonardo Suncin Cruz**
-
-- Twitter: [@jl_suncin](https://twitter.com/jl_suncin)
-- Github: [@leosuncin](https://github.com/leosuncin)
-<!-- markdown-link-check-disable -->
-- LinkedIn: [@jaimesuncin](https://linkedin.com/in/jaimesuncin)
-<!-- markdown-link-check-enable -->
-
-## Show your support
-
 Give a ⭐️ if this project helped you!
 
 ### :star2: Stargazers
