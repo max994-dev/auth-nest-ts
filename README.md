@@ -1,4 +1,4 @@
-# 🛂 Nest.js Authentication Example
+# 🛂 Nest.js Authentication 
 
 [![MegaLinter](https://github.com/leosuncin/nest-auth-example/workflows/MegaLinter/badge.svg?branch=master)](https://github.com/leosuncin/nest-auth-example/actions/workflows/mega-linter.yml)
 [![Unit test](https://github.com/leosuncin/nest-auth-example/actions/workflows/unit-test.yml/badge.svg?branch=master)](https://github.com/leosuncin/nest-auth-example/actions/workflows/unit-test.yml)
