@@ -126,24 +126,6 @@ To see the code coverage
 
 Give a ⭐️ if this project helped you!
 
-### :star2: Stargazers
-
-[![Stargazers repo roster for @leosuncin/nest-auth-example](https://reporoster.com/stars/leosuncin/nest-auth-example)](https://github.com/leosuncin/nest-auth-example/stargazers)
-
-### :fork_and_knife: Forkers
-
-[![Forkers repo roster for @leosuncin/nest-auth-example](https://reporoster.com/forks/leosuncin/nest-auth-example)](https://github.com/leosuncin/nest-auth-example/network/members)
-
-## Related
-
-Here are some more example projects with Nest.js
-
-[![GraphQL example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-graphql-example)](https://github.com/leosuncin/nest-graphql-example)
-
-[![API example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-api-example)](https://github.com/leosuncin/nest-api-example)
-
-[![TypeORM custom repository](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-typeorm-custom-repository)](https://github.com/leosuncin/nest-typeorm-custom-repository)
-
 ## License
 
 Release under the terms of [MIT](./LICENSE)
